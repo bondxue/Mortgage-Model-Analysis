@@ -1,0 +1,16 @@
+
+// OS X version. 
+export JAVA_HOME="$(/usr/libexec/java_home -v 1.8)"
+export SPARK_HOME=<somePath>/spark-2.3.1-bin-hadoop2.7/
+bin/zeppelin-daemon.sh start
+bin/zeppelin-daemon.sh stop
+
+// Windows Version (fill in the spark home path)
+set HADOOP_HOME=c:\hadoop
+set PATH=%HADOOP_HOME%\bin;%PATH%
+set SPARK_HOME=...\spark-2.3.1-bin-hadoop2.7\
+cd bin
+zeppelin.cmd
+
+
+Go to http://localhost:8080/

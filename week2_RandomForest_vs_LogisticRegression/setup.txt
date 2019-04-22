@@ -1,0 +1,14 @@
+
+// OS X version. 
+export JAVA_HOME="$(/usr/libexec/java_home -v 1.8)"
+bin/zeppelin-daemon.sh start
+bin/zeppelin-daemon.sh stop
+
+// Windows Version
+set HADOOP_HOME=c:\hadoop
+set PATH=%HADOOP_HOME%\bin;%PATH%
+cd bin
+zeppelin.cmd
+
+
+Go to http://localhost:8080/
