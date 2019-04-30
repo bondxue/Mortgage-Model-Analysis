@@ -1,6 +1,7 @@
 # Mortgage-Model-Analysis
 FRE 9733 Big Data semester project
 
+<<<<<<< HEAD
 **in process...**
 
 
@@ -52,3 +53,7 @@ The next month can be one of three states.
 
 
 
+=======
+
+**update soon...**
+>>>>>>> db74d97822310f8447d86b5dab65b6c37d4d6fc3
