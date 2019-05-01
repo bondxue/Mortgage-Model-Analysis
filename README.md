@@ -2,7 +2,11 @@
 FRE 9733 Big Data semester project
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 **in process...**
+=======
+(**in process...**)
+>>>>>>> 14f91d2371e90bcc1ff7184af5c42337b2ce421a
 
 
 ### Mortgage Intro
@@ -52,8 +56,12 @@ The next month can be one of three states.
 ### Logistic Regression vs Random Forest 
 
 
+<<<<<<< HEAD
 
 =======
 
 **update soon...**
 >>>>>>> db74d97822310f8447d86b5dab65b6c37d4d6fc3
+=======
+
+>>>>>>> 14f91d2371e90bcc1ff7184af5c42337b2ce421a
