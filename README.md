@@ -1,14 +1,8 @@
 # Mortgage-Model-Analysis
 FRE 9733 Big Data semester project
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 **in process...**
-=======
-(**in process...**)
->>>>>>> 14f91d2371e90bcc1ff7184af5c42337b2ce421a
-
-
+-----------------------
 ### Mortgage Intro
 A typical mortgage in the US has the following structure.
 + A borrower purchases a house, pays 20% of the purchase price and borrows 80%.
